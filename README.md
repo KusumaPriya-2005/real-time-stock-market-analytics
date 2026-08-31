@@ -1,10 +1,10 @@
-# 📈 StockVision
+# StockVision
 
 ### Real-Time Stock Analytics & Forecasting Dashboard
 
 StockVision is an interactive **stock market analytics and forecasting dashboard** built with **Python and Streamlit**. It combines real-time market data with historical stock data to help users analyze price movements, trading volume, technical indicators, and potential future trends through interactive visualizations and forecasting models.
 
-## 📌 Overview
+## Overview
 
 StockVision provides a unified platform for exploring stock market data from two sources:
 
@@ -13,7 +13,7 @@ StockVision provides a unified platform for exploring stock market data from two
 
 The application processes the data, calculates technical indicators, visualizes market trends, and provides price forecasts using multiple statistical and machine learning approaches.
 
-## ✨ Key Features
+## Key Features
 
 * **Real-Time Market Analysis**
   Fetch and monitor current stock prices, daily changes, trading volume, and other market information.
@@ -40,7 +40,7 @@ The application processes the data, calculates technical indicators, visualizes 
 * **Model Evaluation**
   Evaluate forecasting performance using metrics such as **RMSE and R² Score**.
 
-## 🧠 Forecasting Models
+## Forecasting Models
 
 | Model                 | Purpose                                                |
 | --------------------- | ------------------------------------------------------ |
@@ -48,7 +48,7 @@ The application processes the data, calculates technical indicators, visualizes 
 | **ARIMA**             | Performs statistical time-series forecasting           |
 | **LSTM**              | Learns sequential patterns for stock price forecasting |
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Language:** Python
 
@@ -68,7 +68,7 @@ The application processes the data, calculates technical indicators, visualizes 
 
 **Environment Management:** python-dotenv
 
-## 🔄 Workflow
+## Workflow
 
 ```text
 Real-Time API / Historical CSV
@@ -89,7 +89,7 @@ Regression
    Analysis & Forecasts
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -130,7 +130,7 @@ streamlit run streamlit_app.py
 
 The application will open in your browser through the local Streamlit server.
 
-## 📊 What You Can Analyze
+## What You Can Analyze
 
 StockVision allows users to explore:
 
@@ -144,7 +144,7 @@ StockVision allows users to explore:
 * Model performance
 * Training progress for deep-learning models
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 StockVision is an **academic and analytical project** intended for educational purposes. Forecasts and investment guidance are generated from historical and available market data and **should not be considered financial advice or a guarantee of future stock performance**.
 
