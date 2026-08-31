@@ -148,7 +148,7 @@ StockVision allows users to explore:
 
 StockVision is an **academic and analytical project** intended for educational purposes. Forecasts and investment guidance are generated from historical and available market data and **should not be considered financial advice or a guarantee of future stock performance**.
 
-## 👩‍💻 Author
+## Author
 
 **Kusuma Priya**
 
